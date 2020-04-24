@@ -1,0 +1,110 @@
+{
+  "presentationTable" : {
+    "name" : "SAMP_REVENUE_F",
+    "presentationColumns" : [ {
+      "useLogicalName" : true,
+      "name" : "SHIPTO_ADDR_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.SHIPTO_ADDR_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "OFFICE_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.OFFICE_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "EMPL_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.EMPL_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "PROD_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.PROD_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "UNITS",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.UNITS"
+    }, {
+      "useLogicalName" : true,
+      "name" : "DISCNT_VALUE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.DISCNT_VALUE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "BILL_MTH_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.BILL_MTH_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "BILL_QTR_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.BILL_QTR_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "BILL_DAY_DT",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.BILL_DAY_DT"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_DAY_DT",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_DAY_DT"
+    }, {
+      "useLogicalName" : true,
+      "name" : "PAID_DAY_DT",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.PAID_DAY_DT"
+    }, {
+      "useLogicalName" : true,
+      "name" : "DISCNT_RATE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.DISCNT_RATE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_STATUS",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_STATUS"
+    }, {
+      "useLogicalName" : true,
+      "name" : "CURRENCY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.CURRENCY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_TYPE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "CUST_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.CUST_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "SHIP_DAY_DT",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.SHIP_DAY_DT"
+    }, {
+      "useLogicalName" : true,
+      "name" : "COST_FIXED",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.COST_FIXED"
+    }, {
+      "useLogicalName" : true,
+      "name" : "COST_VARIABLE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.COST_VARIABLE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "SRC_ORDER_NUMBER",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.SRC_ORDER_NUMBER"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_NUMBER",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_NUMBER"
+    }, {
+      "useLogicalName" : true,
+      "name" : "REVENUE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.REVENUE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_DTIME1_DB_TZ",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_DTIME1_DB_TZ"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_DTIME2_TIMEZONE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_DTIME2_TIMEZONE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ORDER_DTIME2_CUSTOM_TZ",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_REVENUE_F.ORDER_DTIME2_CUSTOM_TZ"
+    } ]
+  }
+}

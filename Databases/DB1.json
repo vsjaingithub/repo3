@@ -1,0 +1,12 @@
+{
+  "database" : {
+    "name" : "DB1",
+    "joins" : [ {
+      "type" : "SIMPLE",
+      "name" : "NewJoin_1",
+      "leftTable" : "physicalTable:DB1.SAMP_REVENUE_F",
+      "rightTable" : "physicalTable:DB1.SAMP_PRODUCTS_D",
+      "joinConditions" : [ { } ]
+    } ]
+  }
+}

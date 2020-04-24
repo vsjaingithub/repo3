@@ -1,0 +1,13 @@
+{
+  "subjectArea" : {
+    "name" : "SA1",
+    "sourceBusinessModel" : "businessModel:BM1",
+    "exportLogicalKeys" : false,
+    "tableOrder" : [ {
+      "name" : "presentationTable:SA1.SAMP_REVENUE_F"
+    }, {
+      "name" : "presentationTable:SA1.SAMP_PRODUCTS_D"
+    } ],
+    "localization" : { }
+  }
+}

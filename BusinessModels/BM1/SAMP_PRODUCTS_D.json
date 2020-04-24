@@ -1,0 +1,247 @@
+{
+  "logicalTable" : {
+    "name" : "SAMP_PRODUCTS_D",
+    "type" : "DIMENSION",
+    "logicalColumns" : [ {
+      "name" : "PROD_KEY",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "PROD_DSC",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "ATTRIBUTE_2",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "ATTRIBUTE_1",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "TYPE",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "LOB",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "BRAND",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "SEQUENCE",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "BRAND_KEY",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "LOB_KEY",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "TYPE_KEY",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "TOTAL_VALUE",
+      "dataType" : "VARCHAR",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "DSYS_INSTANCE_ID",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "DSYS_PROCESS_ID",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    }, {
+      "name" : "DSYS_BATCH_ID",
+      "dataType" : "NUMBER",
+      "writeable" : false,
+      "logicalColumnSource" : {
+        "derivedFrom" : "PHYSICAL_COLUMNS",
+        "physicalMappings" : [ {
+          "logicalTableSource" : "SAMP_PRODUCTS_D",
+          "physicalExpression" : {
+            "expressionTemplate" : "%1",
+            "expressionObjects" : [ null ]
+          }
+        } ]
+      }
+    } ],
+    "logicalTableSources" : [ {
+      "name" : "SAMP_PRODUCTS_D",
+      "disable" : false,
+      "tableMapping" : {
+        "allowUnmappedTables" : true,
+        "tables" : [ "physicalTable:DB1.SAMP_PRODUCTS_D" ]
+      },
+      "combineWithOtherFragments" : true,
+      "distinctValues" : true
+    } ],
+    "hierarchyType" : "LEVEL_BASED",
+    "levelBasedHierarchy" : {
+      "ragged" : false,
+      "skipped" : false,
+      "logicalLevels" : [ {
+        "name" : "Total",
+        "grandTotalLevel" : true,
+        "detailLevel" : false,
+        "chronologicalKey" : false
+      }, {
+        "name" : "Detail",
+        "grandTotalLevel" : false,
+        "detailLevel" : true,
+        "chronologicalKey" : false
+      } ],
+      "logicalHierarchies" : [ {
+        "name" : "Hierarchy_1",
+        "levels" : [ "Total", "Detail" ]
+      } ]
+    }
+  }
+}

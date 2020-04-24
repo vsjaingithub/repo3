@@ -1,0 +1,73 @@
+{
+  "physicalTable" : {
+    "name" : "SAMP_PRODUCTS_D",
+    "physicalColumns" : [ {
+      "name" : "PROD_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "PROD_DSC",
+      "dataType" : "VARCHAR",
+      "length" : "255",
+      "nullable" : false
+    }, {
+      "name" : "ATTRIBUTE_2",
+      "dataType" : "VARCHAR",
+      "length" : "255",
+      "nullable" : false
+    }, {
+      "name" : "ATTRIBUTE_1",
+      "dataType" : "VARCHAR",
+      "length" : "255",
+      "nullable" : false
+    }, {
+      "name" : "TYPE",
+      "dataType" : "VARCHAR",
+      "length" : "255",
+      "nullable" : false
+    }, {
+      "name" : "LOB",
+      "dataType" : "VARCHAR",
+      "length" : "255",
+      "nullable" : false
+    }, {
+      "name" : "BRAND",
+      "dataType" : "VARCHAR",
+      "length" : "255",
+      "nullable" : false
+    }, {
+      "name" : "SEQUENCE",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "BRAND_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "LOB_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "TYPE_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "TOTAL_VALUE",
+      "dataType" : "VARCHAR",
+      "length" : "20",
+      "nullable" : false
+    }, {
+      "name" : "DSYS_INSTANCE_ID",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "DSYS_PROCESS_ID",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "DSYS_BATCH_ID",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    } ]
+  }
+}

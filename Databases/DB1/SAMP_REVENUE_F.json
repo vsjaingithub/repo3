@@ -1,0 +1,115 @@
+{
+  "physicalTable" : {
+    "name" : "SAMP_REVENUE_F",
+    "physicalColumns" : [ {
+      "name" : "SHIPTO_ADDR_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "OFFICE_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "EMPL_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "PROD_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "UNITS",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "DISCNT_VALUE",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "BILL_MTH_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "BILL_QTR_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "BILL_DAY_DT",
+      "dataType" : "TIMESTAMP",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_DAY_DT",
+      "dataType" : "TIMESTAMP",
+      "nullable" : false
+    }, {
+      "name" : "PAID_DAY_DT",
+      "dataType" : "TIMESTAMP",
+      "nullable" : false
+    }, {
+      "name" : "DISCNT_RATE",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_STATUS",
+      "dataType" : "VARCHAR",
+      "length" : "20",
+      "nullable" : false
+    }, {
+      "name" : "CURRENCY",
+      "dataType" : "VARCHAR",
+      "length" : "3",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_TYPE",
+      "dataType" : "VARCHAR",
+      "length" : "20",
+      "nullable" : false
+    }, {
+      "name" : "CUST_KEY",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "SHIP_DAY_DT",
+      "dataType" : "TIMESTAMP",
+      "nullable" : false
+    }, {
+      "name" : "COST_FIXED",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "COST_VARIABLE",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "SRC_ORDER_NUMBER",
+      "dataType" : "VARCHAR",
+      "length" : "20",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_NUMBER",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "REVENUE",
+      "dataType" : "NUMBER",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_DTIME1_DB_TZ",
+      "dataType" : "TIMESTAMP",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_DTIME2_TIMEZONE",
+      "dataType" : "VARCHAR",
+      "length" : "200",
+      "nullable" : false
+    }, {
+      "name" : "ORDER_DTIME2_CUSTOM_TZ",
+      "dataType" : "TIMESTAMP",
+      "nullable" : false
+    } ]
+  }
+}

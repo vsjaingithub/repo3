@@ -1,0 +1,66 @@
+{
+  "presentationTable" : {
+    "name" : "SAMP_PRODUCTS_D",
+    "presentationColumns" : [ {
+      "useLogicalName" : true,
+      "name" : "PROD_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.PROD_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "PROD_DSC",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.PROD_DSC"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ATTRIBUTE_2",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.ATTRIBUTE_2"
+    }, {
+      "useLogicalName" : true,
+      "name" : "ATTRIBUTE_1",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.ATTRIBUTE_1"
+    }, {
+      "useLogicalName" : true,
+      "name" : "TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.TYPE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "LOB",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.LOB"
+    }, {
+      "useLogicalName" : true,
+      "name" : "BRAND",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.BRAND"
+    }, {
+      "useLogicalName" : true,
+      "name" : "SEQUENCE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.SEQUENCE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "BRAND_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.BRAND_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "LOB_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.LOB_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "TYPE_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.TYPE_KEY"
+    }, {
+      "useLogicalName" : true,
+      "name" : "TOTAL_VALUE",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.TOTAL_VALUE"
+    }, {
+      "useLogicalName" : true,
+      "name" : "DSYS_INSTANCE_ID",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.DSYS_INSTANCE_ID"
+    }, {
+      "useLogicalName" : true,
+      "name" : "DSYS_PROCESS_ID",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.DSYS_PROCESS_ID"
+    }, {
+      "useLogicalName" : true,
+      "name" : "DSYS_BATCH_ID",
+      "sourceLogicalColumn" : "logicalColumn:BM1.SAMP_PRODUCTS_D.DSYS_BATCH_ID"
+    } ]
+  }
+}
